@@ -1,0 +1,27 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.testing.cwd": "${workspaceFolder}",
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": ["-q", "tests"],
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "jupyter.askForKernelRestart": true,
+  "jupyter.excludeUserSitePackages": true,
+  "jupyter.allowUnauthorizedRemoteConnection": false,
+  "jupyter.exportWithOutputEnabled": false,
+  "jupyter.widgetScriptSources": [],
+  "files.autoSave": "off",
+  "files.exclude": {
+    "**/.ipynb_checkpoints": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/.runtime": true
+  },
+  "files.watcherExclude": {
+    "**/.venv/**": true,
+    "**/.artifacts/**": true,
+    "**/.runtime/**": true,
+    "**/incoming/**": true
+  }
+}

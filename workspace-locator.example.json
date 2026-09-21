@@ -1,0 +1,10 @@
+{
+  "schema_version": "sandai.shared-drive-locator.v1",
+  "account": "YOUR_GOOGLE_WORKSPACE_ACCOUNT",
+  "shared_drive_name": "SaNDAI Shared Workspace",
+  "shared_drive_id": "YOUR_SHARED_DRIVE_ID",
+  "rclone_remote": "YOUR_RCLONE_REMOTE:",
+  "remote_project_root": "",
+  "local_runtime_cache": ".runtime/shared-drive-cache",
+  "purpose": "Local routing only. The Shared drive is authoritative for shared management/test data; this ignored cache is disposable execution state."
+}

@@ -1,0 +1,11 @@
+*
+!pyproject.toml
+!src/
+!src/**
+!web/
+!web/**
+!cloudbuild.yaml
+!.dockerignore
+web/node_modules/
+web/dist/
+**/__pycache__/

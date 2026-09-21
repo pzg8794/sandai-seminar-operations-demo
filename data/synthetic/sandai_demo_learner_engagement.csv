@@ -1,0 +1,33 @@
+participant_id,demo_student,student_stage,career_goal,experience_level,preferred_learning_format,campaign_week,seminar_attended,access_channel,session_status,checkpoints_completed,checkpoint_total,feedback_submitted,feedback_score,follow_up_opt_in,support_request,last_activity_days_ago
+SYN-W1-001,Demo Student Avery Example,undergraduate,data analyst,beginner,worked example,1,True,partner_qr,completed,3,3,True,5.0,True,none,0
+SYN-W1-002,Demo Student Jordan Sample,graduate,AI support specialist,developing,step-by-step checklist,1,True,email_link,accessed,2,3,True,4.0,True,reminder,2
+SYN-W1-003,Demo Student Riley Prototype,career changer,software engineer,intermediate,short video plus practice,1,True,approved_social,accessed,1,3,True,2.0,False,navigation,5
+SYN-W1-004,Demo Student Casey Demo,undergraduate,educator using AI,developing,visual walkthrough,1,False,partner_qr,not_started,0,3,False,,False,pacing,7
+SYN-W2-001,Demo Student Morgan Mock,undergraduate,business intelligence analyst,beginner,worked example,2,True,email_link,completed,3,3,True,5.0,True,none,0
+SYN-W2-002,Demo Student Taylor Test,graduate,UX researcher,developing,step-by-step checklist,2,True,partner_qr,completed,3,3,True,4.0,True,none,1
+SYN-W2-003,Demo Student Quinn Fiction,career changer,data engineer,intermediate,short video plus practice,2,True,approved_social,accessed,2,3,True,3.0,False,reminder,3
+SYN-W2-004,Demo Student Cameron Practice,undergraduate,responsible AI practitioner,developing,visual walkthrough,2,True,email_link,accessed,1,3,False,,False,navigation,6
+SYN-W3-001,Demo Student Skyler Example,undergraduate,data analyst,beginner,worked example,3,True,partner_qr,completed,3,3,True,4.0,True,none,1
+SYN-W3-002,Demo Student Reese Sample,graduate,AI support specialist,developing,step-by-step checklist,3,True,email_link,accessed,2,3,True,3.0,True,reminder,3
+SYN-W3-003,Demo Student Parker Prototype,career changer,software engineer,intermediate,short video plus practice,3,False,approved_social,not_started,0,3,True,2.0,False,navigation,7
+SYN-W3-004,Demo Student Rowan Demo,undergraduate,educator using AI,developing,visual walkthrough,3,True,partner_qr,accessed,1,3,False,,False,pacing,5
+SYN-W4-001,Demo Student Finley Mock,undergraduate,business intelligence analyst,beginner,worked example,4,True,career_partner_link,completed,3,3,True,5.0,True,none,0
+SYN-W4-002,Demo Student Dakota Test,graduate,UX researcher,developing,step-by-step checklist,4,True,partner_qr,completed,3,3,True,4.0,True,none,1
+SYN-W4-003,Demo Student Hayden Fiction,career changer,data engineer,intermediate,short video plus practice,4,True,email_link,accessed,2,3,True,4.0,True,reminder,2
+SYN-W4-004,Demo Student Emerson Practice,undergraduate,responsible AI practitioner,developing,visual walkthrough,4,True,approved_social,accessed,1,3,True,3.0,False,navigation,4
+SYN-W5-001,Demo Student Sage Example,undergraduate,data analyst,beginner,worked example,5,True,email_link,completed,3,3,True,5.0,True,none,0
+SYN-W5-002,Demo Student River Sample,graduate,AI support specialist,developing,step-by-step checklist,5,True,partner_qr,completed,3,3,True,4.0,True,none,1
+SYN-W5-003,Demo Student Blake Prototype,career changer,software engineer,intermediate,short video plus practice,5,True,career_partner_link,accessed,2,3,True,3.0,True,reminder,3
+SYN-W5-004,Demo Student Charlie Demo,undergraduate,educator using AI,developing,visual walkthrough,5,False,approved_social,not_started,0,3,False,,False,navigation,7
+SYN-W6-001,Demo Student Drew Mock,undergraduate,business intelligence analyst,beginner,worked example,6,True,partner_qr,completed,3,3,True,5.0,True,none,0
+SYN-W6-002,Demo Student Jamie Test,graduate,UX researcher,developing,step-by-step checklist,6,True,career_partner_link,completed,3,3,True,5.0,True,none,0
+SYN-W6-003,Demo Student Kendall Fiction,career changer,data engineer,intermediate,short video plus practice,6,True,email_link,accessed,2,3,True,4.0,True,reminder,2
+SYN-W6-004,Demo Student Lane Practice,undergraduate,responsible AI practitioner,developing,visual walkthrough,6,True,approved_social,accessed,1,3,True,2.0,False,pacing,5
+SYN-W7-001,Demo Student Marley Example,undergraduate,data analyst,beginner,worked example,7,True,email_link,completed,3,3,True,5.0,True,none,0
+SYN-W7-002,Demo Student Oakley Sample,graduate,AI support specialist,developing,step-by-step checklist,7,True,partner_qr,completed,3,3,True,4.0,True,none,1
+SYN-W7-003,Demo Student Payton Prototype,career changer,software engineer,intermediate,short video plus practice,7,True,career_partner_link,accessed,2,3,True,3.0,True,reminder,3
+SYN-W7-004,Demo Student Robin Demo,undergraduate,educator using AI,developing,visual walkthrough,7,True,approved_social,accessed,1,3,False,,False,navigation,6
+SYN-W8-001,Demo Student Shawn Mock,undergraduate,business intelligence analyst,beginner,worked example,8,True,partner_qr,completed,3,3,True,5.0,True,none,0
+SYN-W8-002,Demo Student Terry Test,graduate,UX researcher,developing,step-by-step checklist,8,True,career_partner_link,completed,3,3,True,4.0,True,none,1
+SYN-W8-003,Demo Student Val Fiction,career changer,data engineer,intermediate,short video plus practice,8,True,email_link,accessed,2,3,True,4.0,True,reminder,2
+SYN-W8-004,Demo Student Winter Practice,undergraduate,responsible AI practitioner,developing,visual walkthrough,8,False,approved_social,not_started,0,3,True,2.0,False,navigation,7

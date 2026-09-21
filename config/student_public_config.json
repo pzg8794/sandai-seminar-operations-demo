@@ -1,0 +1,10 @@
+{
+  "schema_version": "sandai.student-public-config.v1",
+  "data_classification": "PUBLIC_DEMO_CONFIGURATION",
+  "seminar_title": "SaNDAI Student Seminar Companion",
+  "demo_mode": true,
+  "network_or_api_calls": false,
+  "automatic_export": false,
+  "management_data_access": false,
+  "action_boundary": "Students review and authorize every external send, apply, submit, or post action."
+}

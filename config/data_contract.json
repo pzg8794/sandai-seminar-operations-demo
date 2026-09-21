@@ -1,0 +1,15 @@
+{
+  "schema_version": "sandai.shared-data-contract.v1",
+  "data_plane": "private_google_shared_drive",
+  "campaign_input": "data/synthetic/sandai_demo_campaign_data.csv",
+  "learner_input": "data/synthetic/sandai_demo_learner_engagement.csv",
+  "configuration": "config/campaign_config.json",
+  "weekly_metrics": "data/processed/weekly_metrics.csv",
+  "channel_metrics": "data/management/channel_metrics.csv",
+  "partner_pipeline": "data/management/partner_pipeline.csv",
+  "decision_snapshot": "outputs/management/decision_snapshot.json",
+  "validation_result": "verification/{surface}/verification.json",
+  "parity_result": "verification/parity/parity-report.json",
+  "source_write_policy": "never_overwrite",
+  "demo_data_policy": "fictional_students_and_synthetic_campaign_data"
+}

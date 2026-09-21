@@ -1,0 +1,16 @@
+{
+  "schema_version": "sandai.campaign-config.v1",
+  "data_classification": "SYNTHETIC_DEMO_ONLY",
+  "weekly_attendance_target": 20,
+  "total_attendance_target": 160,
+  "campaign_weeks": 8,
+  "current_week": 4,
+  "confidence_level": 0.8,
+  "operational_buffer_ppts": 0.05,
+  "unconfirmed_attend_rate": 0.15,
+  "planned_extra_registrations": 7,
+  "planned_extra_confirmations": 9,
+  "random_seed": 20260921,
+  "write_outputs": true,
+  "source_overwrite_allowed": false
+}

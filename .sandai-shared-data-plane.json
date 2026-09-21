@@ -1,0 +1,10 @@
+{
+  "schema_version": "sandai.workspace-marker.v2",
+  "workspace_name": "SaNDAI Shared Workspace",
+  "workspace_type": "google_shared_drive",
+  "shared_drive_id": "CONFIGURE_LOCALLY",
+  "privacy": "private",
+  "authoritative_data_plane": "private_google_shared_drive",
+  "data_classification": "SYNTHETIC_DEMO_ONLY",
+  "external_sharing": "not_configured_in_public_repo"
+}
